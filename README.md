@@ -72,7 +72,7 @@ DB_PASSWORD=
 ```
 
 ### 6. Buat Database
-Buat database baru di MySQL dengan nama buku_tamu_db (atau sesuai .env).
+Buat database baru di MySQL dengan nama **buku_tamu_db** (atau sesuai .env).
 
 ### 7. Jalankan Migrasi dan Seeder
 ```bash
