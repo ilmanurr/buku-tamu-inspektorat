@@ -41,8 +41,8 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek secara lokal:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
+git clone https://github.com/ilmanurr/buku-tamu-inspektorat.git
+cd buku-tamu-inspektorat
 ```
 
 ### 2. Install Dependency Composer
