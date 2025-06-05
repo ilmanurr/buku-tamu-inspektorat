@@ -1,0 +1,5 @@
+id,nama_user,email,password,role_id,created_at,updated_at
+1,Super Admin 1,superadmin1@gmail.com,$2y$12$GAzCWjECxGkUf0BgWUUHgeobLhfYhPLkB8qZiACp8Ox1R2uDz0tBK,1,4/23/2025 8:18,4/23/2025 8:18
+2,Resepsionis 1,resepsionis1@gmail.com,$2y$12$GuL9c6Rp6XYYCtFcNlSbV.Rknl5yyZD3870K58g7CCTkwLcT8KmGC,2,4/23/2025 8:18,4/23/2025 8:18
+3,Monitor,monitor@gmail.com,$2y$12$anKSg8w/0iFaeseX/JOki.d2N8kP5iLFtb18BxKR/x1yvh/Kiwk6q,3,4/23/2025 8:18,4/23/2025 8:18
+,,,,,,

@@ -1,0 +1,164 @@
+id,bkl_main,bkl_sub,bkl_kategori,bkl_nilai,bkl_catatan,bkl_status,created_by,created_at,updated_by,updated_at
+1,role_user,role_user,super_admin,Super Admin,,A,1 | Super Admin 1,3/14/2025 11:30,1 | Super Admin 1,5/9/2025 14:27
+2,role_user,role_user,resepsionis,Resepsionis,,A,1 | Super Admin 1,3/14/2025 11:30,1 | Super Admin 1,3/14/2025 13:45
+3,role_user,role_user,monitor,Monitor,,A,1 | Super Admin 1,3/14/2025 11:31,1 | Super Admin 1,3/14/2025 13:47
+4,instansi,Provinsi Jawa Timur,Sekretariat Daerah,Sekretariat Daerah Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 15:17
+5,instansi,Provinsi Jawa Timur,Biro,Biro Administrasi Pemerintahan Umum Dan Otoda Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+6,instansi,Provinsi Jawa Timur,Biro,Biro Administrasi Pembangunan Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+7,instansi,Provinsi Jawa Timur,Biro,Biro Administrasi Kesejahteraan Sosial Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+8,instansi,Provinsi Jawa Timur,Biro,Biro Administrasi Perekonomian Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+9,instansi,Provinsi Jawa Timur,Biro,Biro Administrasi Sumber Daya Alam Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+10,instansi,Provinsi Jawa Timur,Biro,Biro Hukum Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+11,instansi,Provinsi Jawa Timur,Biro,Biro Umum Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+12,instansi,Provinsi Jawa Timur,Biro,Biro Humas Dan Protokol Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+13,instansi,Provinsi Jawa Timur,Biro,Biro Organisasi Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+14,instansi,Provinsi Jawa Timur,Badan,Badan Pengelolaan Keuangan Dan Aset Daerah Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+15,instansi,Provinsi Jawa Timur,Badan,Badan Perencanaan Pembangunan Daerah Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+16,instansi,Provinsi Jawa Timur,Badan,Badan Pendapatan Daerah Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+17,instansi,Provinsi Jawa Timur,Badan,Badan Kepegawaian Daerah Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+18,instansi,Provinsi Jawa Timur,Badan,Badan Pengembangan Sumber Daya Manusia Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+19,instansi,Provinsi Jawa Timur,Badan,Badan Kesatuan Bangsa Dan Politik Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+20,instansi,Provinsi Jawa Timur,Badan,Badan Penanggulangan Bencana Daerah Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+21,instansi,Provinsi Jawa Timur,Badan,Badan Penelitian Dan Pengembangan Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+22,instansi,Provinsi Jawa Timur,Badan,Badan Penghubung Daerah Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+23,instansi,Provinsi Jawa Timur,Badan,Badan Koordinasi Wilayah Pemerintahan dan Pembangunan III Provinsi Jawa Timur di Malang,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+24,instansi,Provinsi Jawa Timur,Badan,Badan Koordinasi Wilayah Pemerintahan dan Pembangunan I Provinsi Jawa Timur di Madiun,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+25,instansi,Provinsi Jawa Timur,Badan,Badan Koordinasi Wilayah Pemerintahan dan Pembangunan IV Provinsi Jawa Timur di Pamengkasan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+26,instansi,Provinsi Jawa Timur,Badan,Badan Koordinasi Wilayah Pemerintahan dan Pembangunan II Provinsi Jawa Timur di Bojonegoro,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+27,instansi,Provinsi Jawa Timur,Badan,Badan Koordinasi Wilayah Pemerintahan dan Pembangunan V Provinsi Jawa Timur di Jember,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+28,instansi,Provinsi Jawa Timur,Dinas,Dinas Pendidikan Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+29,instansi,Provinsi Jawa Timur,Dinas,Dinas Kepemudaan Dan Olahraga Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+30,instansi,Provinsi Jawa Timur,Dinas,Dinas Perpustakaan Dan Kearsipan Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+31,instansi,Provinsi Jawa Timur,Dinas,Dinas Kebudayaan Dan Pariwisata Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+32,instansi,Provinsi Jawa Timur,Dinas,Dinas Penanaman Modal Dan Ptsp Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+33,instansi,Provinsi Jawa Timur,Dinas,Dinas Perindustrian Dan Perdagangan Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+34,instansi,Provinsi Jawa Timur,Dinas,Dinas Koperasi Dan Umkm Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+35,instansi,Provinsi Jawa Timur,Dinas,Dinas Pekerjaan Umum Sumber Daya Air Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+36,instansi,Provinsi Jawa Timur,Dinas,Dinas Pekerjaan Umum Bina Marga Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+37,instansi,Provinsi Jawa Timur,Dinas,Dinas Pekerjaan Umum Cipta Karya Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+38,instansi,Provinsi Jawa Timur,Dinas,Dinas Perhubungan Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+39,instansi,Provinsi Jawa Timur,Dinas,Dinas Komunikasi Dan Informatika Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+40,instansi,Provinsi Jawa Timur,Dinas,Dinas Pertanian Dan Ketahanan Pangan Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+41,instansi,Provinsi Jawa Timur,Dinas,Dinas Perkebunan Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+42,instansi,Provinsi Jawa Timur,Dinas,Dinas Peternakan Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+43,instansi,Provinsi Jawa Timur,Dinas,Dinas Kelautan Dan Perikanan Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+44,instansi,Provinsi Jawa Timur,Dinas,Dinas Kehutanan Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+45,instansi,Provinsi Jawa Timur,Dinas,Dinas Lingkungan Hidup Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+46,instansi,Provinsi Jawa Timur,Dinas,Dinas Energi Dan Sumber Daya Mineral Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+47,instansi,Provinsi Jawa Timur,Dinas,Dinas Tenaga Kerja Dan Transmigrasi Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+48,instansi,Provinsi Jawa Timur,Dinas,Dinas Pemberdayaan Masyarakat Dan Desa Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+49,instansi,Provinsi Jawa Timur,Dinas,"Dinas Pemberdayaan Perempuan, Perlindungan Anak Dan Kependudukan Provinsi Jawa Timur",,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+50,instansi,Provinsi Jawa Timur,Dinas,Dinas Sosial Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+51,instansi,Provinsi Jawa Timur,Dinas,Dinas Kesehatan Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+52,instansi,Provinsi Jawa Timur,Rumah Sakit,Rumah Sakit Umum Daerah Dr. Soetomo Surabaya Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+53,instansi,Provinsi Jawa Timur,Rumah Sakit,Rumah Sakit Umum Daerah Dr. Saiful Anwar Malang Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+54,instansi,Provinsi Jawa Timur,Rumah Sakit,Rumah Sakit Umum Daerah Dr. Soedono Madiun Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+55,instansi,Provinsi Jawa Timur,Rumah Sakit,Rumah Sakit Jiwa Menur Surabaya Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+56,instansi,Provinsi Jawa Timur,Rumah Sakit,Rumah Sakit Umum Daerah Haji Surabaya Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+57,instansi,Provinsi Jawa Timur,UPT,"UPT Rumah Sakit Mohammad Noer Pamekasan, Dinas Kesehatan Provinsi Jawa Timur",,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+58,instansi,Provinsi Jawa Timur,UPT,"UPT Laboratorium Herbal Materia Medica Batu, Dinas Kesehatan Provinsi Jawa Timur",,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+59,instansi,Provinsi Jawa Timur,UPT,"UPT Rumah Sakit Karumah Sakita Husada Batu, Dinas Kesehatan Provinsi Jawa Timur",,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+60,instansi,Provinsi Jawa Timur,UPT,"UPT Rumah Sakit Paru Mangunharjo Madiun, Dinas Kesehatan Provinsi Jawa Timur",,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+61,instansi,Provinsi Jawa Timur,UPT,"UPT Rumah Sakit Paru Surabaya, Dinas Kesehatan Provinsi Jawa Timur",,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+62,instansi,Provinsi Jawa Timur,UPT,"UPT Rumah Sakit Paru Jember, Dinas Kesehatan Provinsi Jawa Timur",,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+63,instansi,Provinsi Jawa Timur,UPT,"UPT Rumah Sakit Kusta Kediri, Dinas Kesehatan Provinsi Jawa Timur",,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+64,instansi,Provinsi Jawa Timur,UPT,"UPT Rumah Sakit Kusta Sumberglagah Mojokerto, Dinas Kesehatan Provinsi Jawa Timur",,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+65,instansi,Provinsi Jawa Timur,UPT,"UPT Rumah Sakit Mata Masyarakat Jawa Timur, Dinas Kesehatan Provinsi Jawa Timur",,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+66,instansi,Provinsi Jawa Timur,UPT,"UPT Rumah Sakit Paru Dungus Madiun, Dinas Kesehatan Provinsi Jawa Timur",,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+67,instansi,Provinsi Jawa Timur,UPT,"UPT Pelatihan Kesehatan Masyarakat Murnajati Malang, Dinas Kesehatan Provinsi Jawa Timur",,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+68,instansi,Provinsi Jawa Timur,Satuan,Satuan Polisi Pamong Praja Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+69,instansi,Kabupaten Bangkalan,Sekretariat Daerah,Sekretariat Daerah Kabupaten Bangkalan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+70,instansi,Kabupaten Banyuwangi,Sekretariat Daerah,Sekretariat Daerah Kabupaten Banyuwangi,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+71,instansi,Kabupaten Blitar,Sekretariat Daerah,Sekretariat Daerah Kabupaten Blitar,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+72,instansi,Kabupaten Bojonegoro,Sekretariat Daerah,Sekretariat Daerah Kabupaten Bojonegoro,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+73,instansi,Kabupaten Bondowoso,Sekretariat Daerah,Sekretariat Daerah Kabupaten Bondowoso,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+74,instansi,Kabupaten Gresik,Sekretariat Daerah,Sekretariat Daerah Kabupaten Gresik,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+75,instansi,Kabupaten Jember,Sekretariat Daerah,Sekretariat Daerah Kabupaten Jember,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+76,instansi,Kabupaten Jombang,Sekretariat Daerah,Sekretariat Daerah Kabupaten Jombang,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+77,instansi,Kabupaten Kediri,Sekretariat Daerah,Sekretariat Daerah Kabupaten Kediri,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+78,instansi,Kabupaten Lamongan,Sekretariat Daerah,Sekretariat Daerah Kabupaten Lamongan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+79,instansi,Kabupaten Lumajang,Sekretariat Daerah,Sekretariat Daerah Kabupaten Lumajang,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+80,instansi,Kabupaten Madiun,Sekretariat Daerah,Sekretariat Daerah Kabupaten Madiun,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+81,instansi,Kabupaten Magetan,Sekretariat Daerah,Sekretariat Daerah Kabupaten Magetan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+82,instansi,Kabupaten Malang,Sekretariat Daerah,Sekretariat Daerah Kabupaten Malang,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+83,instansi,Kabupaten Mojokerto,Sekretariat Daerah,Sekretariat Daerah Kabupaten Mojokerto,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+84,instansi,Kabupaten Nganjuk,Sekretariat Daerah,Sekretariat Daerah Kabupaten Nganjuk,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+85,instansi,Kabupaten Ngawi,Sekretariat Daerah,Sekretariat Daerah Kabupaten Ngawi,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+86,instansi,Kabupaten Pacitan,Sekretariat Daerah,Sekretariat Daerah Kabupaten Pacitan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+87,instansi,Kabupaten Pamekasan,Sekretariat Daerah,Sekretariat Daerah Kabupaten Pamekasan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+88,instansi,Kabupaten Pasuruan,Sekretariat Daerah,Sekretariat Daerah Kabupaten Pasuruan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+89,instansi,Kabupaten Ponorogo,Sekretariat Daerah,Sekretariat Daerah Kabupaten Ponorogo,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+90,instansi,Kabupaten Probolinggo,Sekretariat Daerah,Sekretariat Daerah Kabupaten Probolinggo,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+91,instansi,Kabupaten Sampang,Sekretariat Daerah,Sekretariat Daerah Kabupaten Sampang,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+92,instansi,Kabupaten Sidoarjo,Sekretariat Daerah,Sekretariat Daerah Kabupaten Sidoarjo,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+93,instansi,Kabupaten Situbondo,Sekretariat Daerah,Sekretariat Daerah Kabupaten Situbondo,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+94,instansi,Kabupaten Sumenep,Sekretariat Daerah,Sekretariat Daerah Kabupaten Sumenep,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+95,instansi,Kabupaten Trenggalek,Sekretariat Daerah,Sekretariat Daerah Kabupaten Trenggalek,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+96,instansi,Kabupaten Tuban,Sekretariat Daerah,Sekretariat Daerah Kabupaten Tuban,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+97,instansi,Kabupaten Tulungagung,Sekretariat Daerah,Sekretariat Daerah Kabupaten Tulungagung,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+98,instansi,Kota Batu,Sekretariat Daerah,Sekretariat Daerah Kota Batu,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+99,instansi,Kota Blitar,Sekretariat Daerah,Sekretariat Daerah Kota Blitar,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+100,instansi,Kota Kediri,Sekretariat Daerah,Sekretariat Daerah Kota Kediri,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+101,instansi,Kota Madiun,Sekretariat Daerah,Sekretariat Daerah Kota Madiun,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+102,instansi,Kota Malang,Sekretariat Daerah,Sekretariat Daerah Kota Malang,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+103,instansi,Kota Mojokerto,Sekretariat Daerah,Sekretariat Daerah Kota Mojokerto,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+104,instansi,Provinsi Jawa Timur,Sekretariat Daerah,Sekretariat Daerah Provinsi Jawa Timur,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+105,instansi,Kota Pasuruan,Sekretariat Daerah,Sekretariat Daerah Kota Pasuruan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+106,instansi,Kota Probolinggo,Sekretariat Daerah,Sekretariat Daerah Kota Probolinggo,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+107,instansi,Kota Surabaya,Sekretariat Daerah,Sekretariat Daerah Kota Surabaya,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+108,instansi,Kabupaten Bangkalan,Inspektorat,Inspektorat Kabupaten Bangkalan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+109,instansi,Kabupaten Banyuwangi,Inspektorat,Inspektorat Kabupaten Banyuwangi,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+110,instansi,Kabupaten Blitar,Inspektorat,Inspektorat Kabupaten Blitar,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+111,instansi,Kabupaten Bojonegoro,Inspektorat,Inspektorat Kabupaten Bojonegoro,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+112,instansi,Kabupaten Bondowoso,Inspektorat,Inspektorat Kabupaten Bondowoso,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+113,instansi,Kabupaten Gresik,Inspektorat,Inspektorat Kabupaten Gresik,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+114,instansi,Kabupaten Jember,Inspektorat,Inspektorat Kabupaten Jember,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+115,instansi,Kabupaten Jombang,Inspektorat,Inspektorat Kabupaten Jombang,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+116,instansi,Kabupaten Kediri,Inspektorat,Inspektorat Kabupaten Kediri,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+117,instansi,Kabupaten Lamongan,Inspektorat,Inspektorat Kabupaten Lamongan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+118,instansi,Kabupaten Lumajang,Inspektorat,Inspektorat Kabupaten Lumajang,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+119,instansi,Kabupaten Madiun,Inspektorat,Inspektorat Kabupaten Madiun,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+120,instansi,Kabupaten Magetan,Inspektorat,Inspektorat Kabupaten Magetan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+121,instansi,Kabupaten Malang,Inspektorat,Inspektorat Kabupaten Malang,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+122,instansi,Kabupaten Mojokerto,Inspektorat,Inspektorat Kabupaten Mojokerto,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+123,instansi,Kabupaten Nganjuk,Inspektorat,Inspektorat Kabupaten Nganjuk,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+124,instansi,Kabupaten Ngawi,Inspektorat,Inspektorat Kabupaten Ngawi,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+125,instansi,Kabupaten Pacitan,Inspektorat,Inspektorat Kabupaten Pacitan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+126,instansi,Kabupaten Pamekasan,Inspektorat,Inspektorat Kabupaten Pamekasan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+127,instansi,Kabupaten Pasuruan,Inspektorat,Inspektorat Kabupaten Pasuruan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+128,instansi,Kabupaten Ponorogo,Inspektorat,Inspektorat Kabupaten Ponorogo,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+129,instansi,Kabupaten Probolinggo,Inspektorat,Inspektorat Kabupaten Probolinggo,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+130,instansi,Kabupaten Sampang,Inspektorat,Inspektorat Kabupaten Sampang,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+131,instansi,Kabupaten Sidoarjo,Inspektorat,Inspektorat Kabupaten Sidoarjo,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+132,instansi,Kabupaten Situbondo,Inspektorat,Inspektorat Kabupaten Situbondo,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+133,instansi,Kabupaten Sumenep,Inspektorat,Inspektorat Kabupaten Sumenep,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+134,instansi,Kabupaten Trenggalek,Inspektorat,Inspektorat Kabupaten Trenggalek,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+135,instansi,Kabupaten Tuban,Inspektorat,Inspektorat Kabupaten Tuban,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+136,instansi,Kabupaten Tulungagung,Inspektorat,Inspektorat Kabupaten Tulungagung,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+137,instansi,Kota Batu,Inspektorat,Inspektorat Kota Batu,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+138,instansi,Kota Blitar,Inspektorat,Inspektorat Kota Blitar,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+139,instansi,Kota Kediri,Inspektorat,Inspektorat Kota Kediri,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+140,instansi,Kota Madiun,Inspektorat,Inspektorat Kota Madiun,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+141,instansi,Kota Malang,Inspektorat,Inspektorat Kota Malang,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+142,instansi,Kota Mojokerto,Inspektorat,Inspektorat Kota Mojokerto,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+143,instansi,Kota Pasuruan,Inspektorat,Inspektorat Kota Pasuruan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+144,instansi,Kota Probolinggo,Inspektorat,Inspektorat Kota Probolinggo,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+145,instansi,Kota Surabaya,Inspektorat,Inspektorat Kota Surabaya,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+146,keperluan,keperluan,keperluan,Mengirim berkas / Surat,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+147,keperluan,keperluan,keperluan,Rapat / Audiensi,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+148,keperluan,keperluan,keperluan,Koordinasi,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+149,keperluan,keperluan,keperluan,Kunjungan,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+150,keperluan,keperluan,keperluan,Interview Kerja,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+151,keperluan,keperluan,keperluan,Survey Magang / Studi Indepen,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+152,keperluan,keperluan,keperluan,Maintenance Lift,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+153,keperluan,keperluan,keperluan,Maintenance Wifi,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+154,keperluan,keperluan,keperluan,Maintenance AC,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+155,keperluan,keperluan,keperluan,Maintenance PC,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+156,kartu_akses,kartu_akses,31234567890,3.001,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+157,kartu_akses,kartu_akses,31234567891,3.002,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+158,kartu_akses,kartu_akses,31234567892,4.001,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+159,kartu_akses,kartu_akses,31234567893,4.002,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+160,kartu_akses,kartu_akses,31234567894,4.003,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/23/2025 8:18
+161,kartu_akses,kartu_akses,2997208,5.001,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,5/1/2025 11:07
+162,kartu_akses,kartu_akses,2912798,5.002,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,4/30/2025 14:16
+163,kartu_akses,kartu_akses,2912790,3.003,,A,1 | Super Admin 1,4/23/2025 8:18,1 | Super Admin 1,5/7/2025 15:00
