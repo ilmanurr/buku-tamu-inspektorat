@@ -83,3 +83,18 @@ php artisan migrate --seed
 ```bash
 php artisan serve
 ```
+
+---
+
+## 🛠 Teknologi yang Digunakan
+- Laravel Framework
+- MySQL Database
+- DOMPDF untuk export laporan PDF
+- Blade Template Engine
+
+---
+
+## 📝 Lisensi
+Proyek ini dikembangkan khusus untuk kebutuhan internal Inspektorat Provinsi Jawa Timur.
+
+
