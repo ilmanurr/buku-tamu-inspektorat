@@ -75,5 +75,5 @@ bash
 php artisan migrate --seed
 
 ### 8. Jalankan Aplikasi
-```bash
+bash
 php artisan serve
