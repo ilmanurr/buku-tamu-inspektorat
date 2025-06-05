@@ -65,7 +65,7 @@ Edit file .env dan sesuaikan bagian berikut:
 ```bash
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
-DB_PORT=3306
+DB_PORT=3306 *sesuaikan dengan port yang digunakan*
 DB_DATABASE=buku_tamu_db
 DB_USERNAME=root
 DB_PASSWORD=
