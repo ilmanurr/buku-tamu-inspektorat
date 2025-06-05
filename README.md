@@ -7,7 +7,7 @@ Sistem Buku Tamu Digital ini dirancang untuk mempermudah proses pencatatan kunju
 ## 🚀 Fitur Utama
 
 - Input data tamu secara langsung oleh resepsionis
-- Penyimpanan data kunjungan secara **real-time*
+- Penyimpanan data kunjungan secara *real-time*
 - Rekap kunjungan yang dapat *diunduh sebagai PDF*
 - *Manajemen pengguna* dengan hak akses berbeda sesuai peran (role)
 
