@@ -44,36 +44,43 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek secara lokal:
 ```bash
 git clone https://github.com/username/nama-repo.git
 cd nama-repo
+```
 
 ### 2. Install Dependency Composer
-bash
+```bash
 composer install
+```
 
 ### 3. Copy File Environment
-bash
+```bash
 cp .env.example .env
+```
 
 ### 4. Generate Application Key
-bash
+```bash
 php artisan key:generate
+```
 
 ### 5. Konfigurasi Database
 Edit file .env dan sesuaikan bagian berikut:
-bash
+```bash
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=buku_tamu_db
 DB_USERNAME=root
 DB_PASSWORD=
+```
 
 ### 6. Buat Database
 Buat database baru di MySQL dengan nama buku_tamu_db (atau sesuai .env).
 
 ### 7. Jalankan Migrasi dan Seeder
-bash
+```bash
 php artisan migrate --seed
+```
 
 ### 8. Jalankan Aplikasi
-bash
+```bash
 php artisan serve
+```
