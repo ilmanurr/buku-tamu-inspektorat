@@ -1,14 +1,13 @@
 # 📖 Sistem Buku Tamu Digital  
-*Inspektorat Provinsi Jawa Timur*
 
-Sistem Buku Tamu Digital ini dirancang untuk mempermudah proses pencatatan kunjungan tamu secara digital di lingkungan *Inspektorat Provinsi Jawa Timur. Sistem ini dibangun menggunakan framework **Laravel* dan dilengkapi dengan fitur manajemen pengguna (user roles) serta laporan kunjungan dalam format PDF.
+Sistem Buku Tamu Digital ini dirancang untuk mempermudah proses pencatatan kunjungan tamu secara digital di lingkungan **Inspektorat Provinsi Jawa Timur**. Sistem ini dibangun menggunakan framework **Laravel** dan dilengkapi dengan fitur manajemen pengguna (user roles) serta laporan kunjungan dalam format PDF.
 
 ---
 
 ## 🚀 Fitur Utama
 
 - Input data tamu secara langsung oleh resepsionis
-- Penyimpanan data kunjungan secara *real-time*
+- Penyimpanan data kunjungan secara **real-time*
 - Rekap kunjungan yang dapat *diunduh sebagai PDF*
 - *Manajemen pengguna* dengan hak akses berbeda sesuai peran (role)
 
@@ -17,7 +16,7 @@ Sistem Buku Tamu Digital ini dirancang untuk mempermudah proses pencatatan kunju
 ## 👥 Role dan Hak Akses Pengguna
 
 ### 1. Super Admin
-- CRUD data *lookups, **tamu, dan **user*
+- CRUD data *lookups*, *tamu*, dan *user*
 - Akses penuh ke halaman *manajemen user*
 - Akses ke halaman *report* dan *unduh laporan PDF*
 - Dapat *mengubah profil*
