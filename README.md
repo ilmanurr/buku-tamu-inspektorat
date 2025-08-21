@@ -89,6 +89,7 @@ php artisan serve
 ## 🛠 Teknologi yang Digunakan
 - Laravel Framework
 - MySQL Database
+- SBAdmin 2 untuk UI Template
 - DOMPDF untuk export laporan PDF
 - Blade Template Engine
 
